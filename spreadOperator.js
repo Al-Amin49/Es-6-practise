@@ -4,7 +4,7 @@ const ages2 =[15,16,12];
 const ages3 =[19,12,34,56,44];
 const allAges = ages.concat(ages2).concat(ages3);
 //const allAges2 =[ages, ages2, ages3];// aktar bitore arekta duke gese
-const allAges2 =[...ages, ...ages2, ...ages3];// spread operator er jonno e tiktak ashce.
+const allAges2 =[...ages, ...ages2,5,10, ...ages3];// spread operator er jonno e tiktak ashce.
 console.log(allAges);
 console.log(allAges2);
 

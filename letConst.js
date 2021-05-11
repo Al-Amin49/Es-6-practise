@@ -1,4 +1,4 @@
-//let->Ata amon akta variable jeta value k change hot de
+//let->Ata amon akta variable jeta value k change hote de
 //const-> fixed  take value k change hote de na.
 const wife='Mayabini';
 //wife="OnnoArekjon";

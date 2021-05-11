@@ -1,5 +1,5 @@
 //What is destructure? (InQ)
-//kuno akta bishal array ba bishal object k akta ba duita element a rakar shortcut upay
+//kuno akta bishal array ba bishal object k akta ba duita variable a rakar shortcut upay
 
 // const person ={  name: 'Jacky', age:23, job:'Doctor', wifeName:'Harrek', phone:988888, address:'California USA', Hometown:'England', Child: 3};
 

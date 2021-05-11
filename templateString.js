@@ -13,3 +13,4 @@ console.log(multiline); // ata new line a korte chaile amra \n dei kintu es6 a a
 
 const multiline2= `I love you I miss you no. But I don't need you now. `
 console.log(multiline2);
+
